@@ -17,6 +17,8 @@ The generated codes are completely random and **do not grant any real V-Bucks or
 
 ## 🖥️ How to Use
 
+You can just copy the script and paste it in a new replit app and run it or you can do what ever the heck the rest of this says!
+
 1. **Clone or Download** this repository.
 2. Make sure you have **Python 3** installed.
 3. Run the script:
