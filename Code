@@ -1,0 +1,15 @@
+import random
+import string
+
+def generate_vbucks_code(blocks=4, chars_per_block=4):
+    chars = string.ascii_uppercase + string.digits
+    code = '-'.join(
+        ''.join(random.choices(chars, k=chars_per_block))
+        for _ in range(blocks)
+    )
+    return code
+
+# Generate 10 fake V-Bucks codes
+if __name__ == "__main__":
+    for _ in range(10):
+        print(generate_vbucks_code())
