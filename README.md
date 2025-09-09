@@ -1,7 +1,5 @@
 # FAKE-V-Bucks-Generator
 
-# V-Bucks Code Generator
-
 Generate random, fake V-Bucks codes for fun and educational purposes!  
 This Python script produces codes in the familiar format used in games, making it perfect for demonstrations, pranks, or testing.
 
